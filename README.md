@@ -2,7 +2,7 @@
 
 > **"Silence is your only weapon. The AI is listening."**
 
-![Project Status](https://img.shields.io/badge/Status-In%20Development-orange) ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Mac-blue) ![License](https://img.shields.io/badge/License-MIT-green)
+![Project Status](https://img.shields.io/badge/Status-In%20Development-orange) ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C-blue) ![License](https://img.shields.io/badge/License-MIT-green)
 
 ## 📖 About The Project
 
